@@ -1,6 +1,6 @@
 <package>
-	<id>com.mins.appleid</id>
-	<name>App Command</name>
+	<id>com.if-she.cydia.vcam</id>
+	<name>VCAM for SeduxMedia</name>
 	<version>1.7.0</version>
 	<compatibility>
 		<firmware>
