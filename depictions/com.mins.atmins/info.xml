@@ -1,10 +1,10 @@
 <package>
-	<id>com.mins.atminsrootless</id>
-	<name>AutoTouch Crack </name>
+	<id>com.mins.atmins</id>
+	<name>AutoTouch Crack Rootful</name>
 	<version>1.7.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>14.4</maxiOS>
+			<maxiOS>16.0</maxiOS>
 			<otherVersions>13.0</otherVersions>
 		</firmware>
 	</compatibility>
